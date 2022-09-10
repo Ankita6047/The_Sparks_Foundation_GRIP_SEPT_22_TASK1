@@ -1,8 +1,4 @@
-# The_Sparks_Foundation_GRIP_SEPT_22_TASK1
-
-Internship Category - Data Science and Business Analytics
-Internship Duration - 1 Month ( September-2022 )
-Internship Type - Work from Home
+# The Sparks Foundation GRIP SEPT22 
 
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
